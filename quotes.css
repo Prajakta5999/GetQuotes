@@ -1,0 +1,50 @@
+
+
+    h1{
+
+        text-align: center;
+        color: aliceblue;
+        text-shadow: 2px 4px 10px yellow;
+    }
+
+    @font-face
+    {
+        font-family: 'Roboto Mono', monospace;
+        src:url(C:\Users\Expert\Desktop\HTML\static\RobotoMono-Italic.ttf);
+    }
+    body
+    {
+        
+        font-family: 'Roboto Mono', monospace;
+        font-style: italic;
+
+
+    }
+    button
+    {
+        color:azure;
+        font-size: 30px;
+        font-style: italic;
+        background-color: crimson;
+        margin-left: 700px;
+        padding: 20px;
+        border-radius: 20px;
+        border: 2px solid;
+        text-shadow: 2px 4px 10px yellow;
+    }
+    #quoteOutput,#authorOutput
+    {
+        margin-left: 350px;
+        font-size: 25px;
+        color: aquamarine;
+        text-shadow: 2px 4px 10px yellow;
+    }
+    body
+    {
+        background-image: url("C:/Users/Expert/Desktop/HTML/D.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+
+
